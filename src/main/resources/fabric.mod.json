@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "btahats",
+	"version": "${version}",
+	"name": "Hats",
+	"description": "Renders certain items as hats when worn on head",
+	"authors": [
+		"wyspr"
+	],
+	"contact": {
+		"homepage": "https://github.com/preprocessor/BTAHats",
+		"sources": ""
+	},
+	"icon": "icon.png",
+	"license": "CC0-1.0",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"com.wyspr.hats.Hats"
+		]
+	},
+	"mixins": [
+      "hats.mixins.json"
+	],
+	"depends": {
+		"minecraft": "*",
+		"fabricloader": ">=0.15.5"
+	},
+	"suggests": {
+	}
+}
