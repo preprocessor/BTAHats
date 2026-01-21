@@ -45,6 +45,7 @@ To use:
 |          **Box**           |          **Cheese**          |           **Mouse**            |
 |    ![Box](imgs/box.png)    |  ![Cheese](imgs/cheese.png)  | ![Mouse](imgs/cheesemouse.png) |
 |                            |                              |                                |
+|                            |                              |                                |
 |          **Chef**          |  **Builder, Construction**   |       **Mage, Magician**       |
 |   ![Chef](imgs/chef.png)   | ![Builder](imgs/builder.png) |     ![Mage](imgs/mage.png)     |
 |                            |                              |                                |
