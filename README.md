@@ -1,4 +1,4 @@
-# BTA Hats
+# Silly Little Hats
 
 Renders certain items as hats when worn on your head.
 
