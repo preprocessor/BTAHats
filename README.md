@@ -2,6 +2,10 @@
 
 Renders certain items as hats when worn on your head.
 
+### Dependencies
+
+- [DragonFly](https://github.com/UselessSolutions/DragonFly)
+
 ## Modified Blocks
 
 To use these just place the block on your head
