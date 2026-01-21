@@ -1,0 +1,22 @@
+gui.hats.options.page.title=Hats!
+gui.hats.options.category.title=Choose hats to use
+
+options.hats.renderLayers=Layers (Snow, Slate, & Leaves)
+options.hats.renderSaddle=Saddle
+options.hats.renderPressurePlates=Pressure plates
+options.hats.renderSlabs=Slabs
+options.hats.renderStairs=Stairs
+options.hats.renderSeat=Seat
+options.hats.renderBasket=Basket
+options.hats.renderButtons=Buttons
+options.hats.renderCakeAndPumpkin=Cake & Pumpkin
+options.hats.renderSwordUnicorn=Sword
+options.hats.renderStick=Stick
+options.hats.renderCobweb=Cobweb
+options.hats.renderRepeater=Repeater
+options.hats.renderArrow=Arrows
+options.hats.renderFire=Fire
+options.hats.renderFlintSteel=Fire Striker
+options.hats.renderTrapdoors=Trapdoors
+options.hats.renderDoors=Doors
+options.hats.renderOlivine=Olivine

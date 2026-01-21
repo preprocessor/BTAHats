@@ -1,9 +1,9 @@
 {
 	"schemaVersion": 1,
-	"id": "btahats",
+	"id": "sillylittlehats",
 	"version": "${version}",
-	"name": "Hats",
-	"description": "Renders certain items as hats when worn on head",
+	"name": "Silly Little Hats",
+	"description": "Renders certain items as hats when worn on your head",
 	"authors": [
 		"wyspr"
 	],
@@ -16,6 +16,9 @@
 	"environment": "client",
 	"entrypoints": {
 		"client": [
+			"com.wyspr.hats.Hats"
+		],
+		"afterClientStart": [
 			"com.wyspr.hats.Hats"
 		]
 	},

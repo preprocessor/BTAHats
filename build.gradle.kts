@@ -28,6 +28,8 @@ val loader_version: String by project
 val halplibe_version: String by project
 val mod_menu_version: String by project
 
+val dragonfly_version: String by project
+
 group = mod_group
 base.archivesName.set(mod_name)
 version = mod_version
@@ -96,6 +98,8 @@ dependencies {
     // Helper library
     // If you do not need Halplibe you can comment this line out or delete this line
     modImplementation("turniplabs:halplibe:$halplibe_version")
+
+	modImplementation("useless:dragonfly:1.7.0-alpha.7")
 
     modImplementation("turniplabs:modmenu-bta:$mod_menu_version")
 

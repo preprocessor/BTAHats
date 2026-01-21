@@ -1,0 +1,20 @@
+{
+  "model_paths": [
+    "/assets/sillylittlehats/models/box_hat.geo.json",
+    "/assets/sillylittlehats/models/cheese_hat1.geo.json",
+    "/assets/sillylittlehats/models/cheese_hat2.geo.json",
+    "/assets/sillylittlehats/models/chef_hat.geo.json",
+    "/assets/sillylittlehats/models/construction_hat.geo.json",
+    "/assets/sillylittlehats/models/mage_hat.geo.json",
+    "/assets/sillylittlehats/models/pokemon_hat1.geo.json",
+    "/assets/sillylittlehats/models/top_hat.geo.json",
+    "/assets/sillylittlehats/models/witch_hat1.geo.json",
+    "/assets/sillylittlehats/models/witch_hat2.geo.json",
+    "/assets/sillylittlehats/models/witch_hat3.geo.json",
+    "/assets/sillylittlehats/models/witch_hat4.geo.json",
+    "/assets/sillylittlehats/models/witch_hat5.geo.json",
+    "/assets/sillylittlehats/models/witch_hat6.geo.json",
+    "/assets/sillylittlehats/models/witch_hat7.geo.json",
+    "/assets/sillylittlehats/models/witch_hat8.geo.json"
+  ]
+}
