@@ -2,7 +2,7 @@
   "required": true,
   "minVersion": "0.8",
   "package": "com.wyspr.hats.mixins",
-  "compatibilityLevel": "JAVA_8",
+  "compatibilityLevel": "JAVA_${java}",
   "client": [
     "EntityRendererAccessor",
     "ItemDoorAccessor",

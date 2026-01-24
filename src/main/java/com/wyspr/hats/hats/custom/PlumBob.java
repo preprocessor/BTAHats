@@ -15,7 +15,6 @@ public class PlumBob {
 		GL11.glRotatef(30.0F, 0.0F, 1.0F, 0.0F);
 
 		GL11.glEnable(GL_BLEND);
-		GL11.glCullFace(GL_FRONT);
 		GL11.glEnable(GL_CULL_FACE);
 		GL11.glDisable(GL_LIGHTING);
 		GL11.glDisable(GL_TEXTURE_2D);
